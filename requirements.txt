@@ -1,0 +1,7 @@
+numpy 
+matplotlib 
+opencv-python 
+tensorflow 
+lxml
+sagemaker
+boto3
